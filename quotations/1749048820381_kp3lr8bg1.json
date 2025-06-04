@@ -148,8 +148,10 @@
   },
   "status": "draft",
   "createdAt": "2025-06-04T14:53:40.381Z",
-  "updatedAt": "2025-06-04T14:53:40.381Z",
+  "updatedAt": "2025-06-04T14:54:47.623Z",
   "clientAuthId": "1749048820381_kp3lr8bg1",
-  "views": 0,
-  "viewedDevices": []
+  "views": 1,
+  "viewedDevices": [
+    "13fa5928d0892a94"
+  ]
 }
