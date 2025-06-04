@@ -67,8 +67,10 @@
   },
   "status": "draft",
   "createdAt": "2025-06-04T10:44:38.125Z",
-  "updatedAt": "2025-06-04T10:44:38.125Z",
+  "updatedAt": "2025-06-04T10:46:38.320Z",
   "clientAuthId": "quote_1749033878125_uqz34cieg",
-  "views": 0,
-  "viewedDevices": []
+  "views": 1,
+  "viewedDevices": [
+    "13fa5928d0892a94"
+  ]
 }
