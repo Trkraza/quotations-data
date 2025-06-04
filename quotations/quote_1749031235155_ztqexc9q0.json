@@ -67,6 +67,10 @@
   },
   "status": "draft",
   "createdAt": "2025-06-04T10:00:35.156Z",
-  "updatedAt": "2025-06-04T10:00:35.156Z",
-  "clientAuthId": "quote_1749031235155_ztqexc9q0"
+  "updatedAt": "2025-06-04T10:35:54.427Z",
+  "clientAuthId": "quote_1749031235155_ztqexc9q0",
+  "views": 1,
+  "viewedDevices": [
+    "13fa5928d0892a94"
+  ]
 }
