@@ -1,1 +1,0 @@
-# Client Authentication Storage
