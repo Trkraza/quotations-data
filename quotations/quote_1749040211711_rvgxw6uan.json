@@ -114,8 +114,10 @@
   },
   "status": "draft",
   "createdAt": "2025-06-04T12:30:11.711Z",
-  "updatedAt": "2025-06-04T12:30:11.711Z",
+  "updatedAt": "2025-06-04T12:30:29.988Z",
   "clientAuthId": "quote_1749040211711_rvgxw6uan",
-  "views": 0,
-  "viewedDevices": []
+  "views": 1,
+  "viewedDevices": [
+    "13fa5928d0892a94"
+  ]
 }
