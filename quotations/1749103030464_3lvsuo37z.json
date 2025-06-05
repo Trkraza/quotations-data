@@ -10,9 +10,10 @@
   },
   "client": {
     "company": "BaseChains",
-    "contact": "BaseChains",
+    "contact": "hello@gmail.com",
     "project": "BaseChains",
-    "validUntil": "2025-06-20"
+    "validUntil": "2025-06-20",
+    "username": "hellogma167@basechai.quote"
   },
   "project": {
     "objective": "Best Chain when compared to all blockchains"
@@ -193,7 +194,7 @@
   },
   "status": "draft",
   "createdAt": "2025-06-05T05:57:10.466Z",
-  "updatedAt": "2025-06-05T05:57:45.161Z",
+  "updatedAt": "2025-06-05T06:00:47.264Z",
   "clientAuthId": "1749103030464_3lvsuo37z",
   "views": 1,
   "viewedDevices": [
