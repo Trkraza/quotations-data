@@ -115,8 +115,10 @@
   },
   "status": "draft",
   "createdAt": "2025-06-05T09:12:38.779Z",
-  "updatedAt": "2025-06-05T09:12:38.779Z",
+  "updatedAt": "2025-06-05T09:13:30.191Z",
   "clientAuthId": "1749114758779_svvq43if7",
-  "views": 0,
-  "viewedDevices": []
+  "views": 1,
+  "viewedDevices": [
+    "13fa5928d0892a94"
+  ]
 }
