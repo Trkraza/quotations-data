@@ -143,8 +143,10 @@
   },
   "status": "draft",
   "createdAt": "2025-06-06T08:32:54.539Z",
-  "updatedAt": "2025-06-06T08:48:14.093Z",
+  "updatedAt": "2025-06-06T08:53:54.785Z",
   "clientAuthId": "1749198774539_tkknndahy",
-  "views": 0,
-  "viewedDevices": []
+  "views": 1,
+  "viewedDevices": [
+    "0ef1eddd7a6f967e"
+  ]
 }
