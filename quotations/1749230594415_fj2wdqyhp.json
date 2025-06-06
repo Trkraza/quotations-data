@@ -6,13 +6,16 @@
     "name": "testing",
     "website": "https://github.com/",
     "email": "testing@gmail.com",
-    "phone": "1234567890"
+    "phone": "1234567812"
   },
   "client": {
     "company": "testingcap",
-    "contact": "testingperson",
+    "contact": "te840@lancerstechnology.quote",
     "project": "testingaudit",
-    "validUntil": "2025-06-21"
+    "validUntil": "2025-06-21",
+    "username": "testingcap313@lancerstechnology.quote",
+    "middlemanUsername": "testingcap599@lancerstechnology.quote",
+    "middlemanPassword": "Zxcvbnm@121#"
   },
   "project": {
     "objective": "Describe the main goal and objective of the project"
@@ -142,7 +145,7 @@
   },
   "status": "draft",
   "createdAt": "2025-06-06T17:23:14.415Z",
-  "updatedAt": "2025-06-06T17:24:13.170Z",
+  "updatedAt": "2025-06-06T17:25:20.600Z",
   "clientAuthId": "1749230594415_fj2wdqyhp",
   "middlemanAuthId": "1749230594415_fj2wdqyhp",
   "views": 1,
