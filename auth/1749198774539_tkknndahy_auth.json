@@ -1,7 +1,8 @@
 {
   "quotationId": "1749198774539_tkknndahy",
-  "username": "childrescue497@lancerstechnology.quote",
-  "passwordHash": "$2b$12$4BQtwHniEVS8M4CAmInEJuFk8rBlXLPxmxvWvWZsxCALAyFmtMf06",
+  "username": "childrescue307@lancerstechnology.quote",
+  "passwordHash": "$2b$12$R2gO6eHDps6m0G1HMW0j6.YpO4qbWjG.e6R6bLg8T8OIt8IPD6ekG",
   "createdAt": "2025-06-06T08:32:54.539Z",
-  "expiryDate": "2025-06-21"
+  "expiryDate": "2025-06-21",
+  "isActive": true
 }
