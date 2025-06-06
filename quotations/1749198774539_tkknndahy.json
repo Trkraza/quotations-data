@@ -13,7 +13,9 @@
     "contact": "childrescue497@lancerstechnology.quote",
     "project": "child rescue",
     "validUntil": "2025-06-21",
-    "username": "childrescue307@lancerstechnology.quote"
+    "username": "childrescue307@lancerstechnology.quote",
+    "middlemanUsername": "childrescue941@lancerstechnology.quote",
+    "middlemanPassword": "Zxcvbnm@121#"
   },
   "project": {
     "objective": "Describe the main goal and objective of the project"
@@ -143,7 +145,7 @@
   },
   "status": "draft",
   "createdAt": "2025-06-06T08:32:54.539Z",
-  "updatedAt": "2025-06-06T08:53:54.785Z",
+  "updatedAt": "2025-06-06T17:09:12.110Z",
   "clientAuthId": "1749198774539_tkknndahy",
   "views": 1,
   "viewedDevices": [
