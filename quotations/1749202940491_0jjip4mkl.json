@@ -10,9 +10,10 @@
   },
   "client": {
     "company": "bhargav",
-    "contact": "bhargav",
+    "contact": "bhargav319@lancerstechnology.quote",
     "project": "audit",
-    "validUntil": "2025-06-21"
+    "validUntil": "2025-06-21",
+    "username": "bhargav778@lancerstechnology.quote"
   },
   "project": {
     "objective": "Describe the main goal and objective of the project"
@@ -80,42 +81,10 @@
         ],
         "isRecommended": false,
         "description": "Perfect for startups and MVPs"
-      },
-      {
-        "id": "default_standard",
-        "name": "Standard Application",
-        "price": 28500,
-        "features": [
-          "All core features included",
-          "Complete admin panel",
-          "Full API integrations",
-          "Comprehensive QA testing",
-          "Professional UI/UX design",
-          "60 days support",
-          "Performance optimization"
-        ],
-        "isRecommended": true,
-        "description": "Most popular choice for businesses"
-      },
-      {
-        "id": "default_enterprise",
-        "name": "Enterprise Application",
-        "price": 65000,
-        "features": [
-          "All features + scalability architecture",
-          "Advanced analytics dashboard",
-          "Automation & AI features",
-          "CI/CD pipeline setup",
-          "SLA-backed support (90 days)",
-          "Load testing & optimization",
-          "Priority support & maintenance"
-        ],
-        "isRecommended": false,
-        "description": "For large-scale, complex projects"
       }
     ],
-    "selectedPlanId": "default_standard",
-    "hourlyRate": 125
+    "selectedPlanId": "default_basic",
+    "hourlyRate": 30
   },
   "terms": {
     "advancePayment": 30,
@@ -142,7 +111,7 @@
   },
   "status": "draft",
   "createdAt": "2025-06-06T09:42:20.491Z",
-  "updatedAt": "2025-06-06T09:43:22.313Z",
+  "updatedAt": "2025-06-06T10:15:40.303Z",
   "clientAuthId": "1749202940491_0jjip4mkl",
   "views": 1,
   "viewedDevices": [
