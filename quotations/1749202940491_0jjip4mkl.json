@@ -15,7 +15,9 @@
     "validUntil": "2025-06-21",
     "username": "bhargav778@lancerstechnology.quote",
     "adminUsername": "audit-admin376@lancerstechnology.quote",
-    "adminPassword": "Zxcvbnm@121#"
+    "adminPassword": "Zxcvbnm@121#",
+    "middlemanUsername": "bhargav698@lancerstechnology.quote",
+    "middlemanPassword": "Zxcvbnm@121#"
   },
   "project": {
     "objective": "Describe the main goal and objective of the project"
@@ -113,7 +115,7 @@
   },
   "status": "draft",
   "createdAt": "2025-06-06T09:42:20.491Z",
-  "updatedAt": "2025-06-06T12:16:02.741Z",
+  "updatedAt": "2025-06-06T17:06:19.238Z",
   "clientAuthId": "1749202940491_0jjip4mkl",
   "views": 2,
   "viewedDevices": [
