@@ -111,10 +111,11 @@
   },
   "status": "draft",
   "createdAt": "2025-06-06T09:42:20.491Z",
-  "updatedAt": "2025-06-06T10:15:40.303Z",
+  "updatedAt": "2025-06-06T10:18:07.309Z",
   "clientAuthId": "1749202940491_0jjip4mkl",
-  "views": 1,
+  "views": 2,
   "viewedDevices": [
-    "0ef1eddd7a6f967e"
+    "0ef1eddd7a6f967e",
+    "5caf23f85071b4f2"
   ]
 }
