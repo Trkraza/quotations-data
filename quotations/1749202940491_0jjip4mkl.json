@@ -10,10 +10,12 @@
   },
   "client": {
     "company": "bhargav",
-    "contact": "bhargav319@lancerstechnology.quote",
+    "contact": "bhargav778@lancerstechnology.quote",
     "project": "audit",
     "validUntil": "2025-06-21",
-    "username": "bhargav778@lancerstechnology.quote"
+    "username": "bhargav778@lancerstechnology.quote",
+    "adminUsername": "audit-admin376@lancerstechnology.quote",
+    "adminPassword": "Zxcvbnm@121#"
   },
   "project": {
     "objective": "Describe the main goal and objective of the project"
@@ -111,7 +113,7 @@
   },
   "status": "draft",
   "createdAt": "2025-06-06T09:42:20.491Z",
-  "updatedAt": "2025-06-06T10:18:07.309Z",
+  "updatedAt": "2025-06-06T12:16:02.741Z",
   "clientAuthId": "1749202940491_0jjip4mkl",
   "views": 2,
   "viewedDevices": [
