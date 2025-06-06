@@ -1,0 +1,12 @@
+{
+  "quotationId": "1749233727513_s9q6kmzl1",
+  "username": "access558@lancerstechnology.quote",
+  "passwordHash": "$2b$12$qvpymHoCJUZAUuat28a2H.o9JVh8lz506ZnJNm3CTwEqLfanock46",
+  "role": "middleman",
+  "createdAt": "2025-06-06T18:15:27.513Z",
+  "expiryDate": "2025-06-21",
+  "permissions": {
+    "canEdit": true,
+    "canView": true
+  }
+}
