@@ -6,7 +6,7 @@
     "name": "dummylancers",
     "website": "https://lancers.technology/",
     "email": "dummy@gmail.com",
-    "phone": "9080203090"
+    "phone": "9080203012"
   },
   "client": {
     "company": "infosys",
@@ -149,7 +149,7 @@
   },
   "status": "draft",
   "createdAt": "2025-06-09T09:16:09.792Z",
-  "updatedAt": "2025-06-09T11:58:00.550Z",
+  "updatedAt": "2025-06-09T12:15:10.845Z",
   "clientAuthId": "1749460569792_4yffjxa7r",
   "middlemanAuthId": "1749460569792_4yffjxa7r",
   "views": 1,
