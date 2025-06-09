@@ -1,8 +1,8 @@
 {
-  "passwordHash": "$2b$12$Yome.xZAG5e2OhhIZPizFOO28fkLQPjWP8Fk0bNww36.U2lOslMb.",
-  "username": "access467@lancerstechnology.quote_client_mblrklcy_client_mbol6q6d",
   "quotationId": "1749233727513_s9q6kmzl1",
+  "username": "access467@lancerstechnology.quote_client_mblrklcy_client_mbol6q6d",
+  "passwordHash": "$2b$12$bZszkyTCbjcaq3T/IXArveEXnn6.d9bjILqUFC9Aj9fKBBXl7NZJ.",
+  "role": "client",
   "createdAt": "2025-06-06T18:15:27.513Z",
-  "expiryDate": "2025-06-21",
-  "role": "client"
+  "expiryDate": "2025-06-21"
 }
