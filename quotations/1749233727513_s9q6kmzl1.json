@@ -10,12 +10,11 @@
   },
   "client": {
     "company": "access",
-    "contact": "access467@lancerstechnology.quote_client_mblrklcy",
+    "contact": "access467@lancerstechnology.quote_client_mblrklcy_client_mbol6q6d",
     "project": "access ai",
     "validUntil": "2025-06-21",
     "username": "access225@lancerstechnology.quote",
-    "middlemanUsername": "access567@lancerstechnology.quote",
-    "middlemanPassword": "BkRxnVYl8t#Q"
+    "middlemanUsername": "access567@lancerstechnology.quote"
   },
   "project": {
     "objective": "Describe the main goal and objective of the project"
@@ -134,7 +133,8 @@
       "Client will provide API keys and required assets",
       "Content and media assets provided by client",
       "Single language support (English)",
-      "Timely client feedback and approvals"
+      "Timely client feedback and approvals",
+      "Standard browser compatibility"
     ],
     "exclusions": [
       "Legacy browser compatibility",
@@ -145,7 +145,7 @@
   },
   "status": "draft",
   "createdAt": "2025-06-06T18:15:27.513Z",
-  "updatedAt": "2025-06-09T04:23:11.374Z",
+  "updatedAt": "2025-06-09T07:24:00.836Z",
   "clientAuthId": "1749233727513_s9q6kmzl1",
   "middlemanAuthId": "1749233727513_s9q6kmzl1",
   "views": 1,
