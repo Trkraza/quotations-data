@@ -6,13 +6,15 @@
     "name": "dummylancers",
     "website": "https://lancers.technology/",
     "email": "dummy@gmail.com",
-    "phone": "9080203010"
+    "phone": "9080203090"
   },
   "client": {
     "company": "infosys",
     "contact": "rakesh",
     "project": "Assure",
-    "validUntil": "2025-06-24"
+    "validUntil": "2025-06-24",
+    "username": "infosys735@lancerstechnology.quote",
+    "middlemanUsername": "infosys808@lancerstechnology.quote"
   },
   "project": {
     "objective": "Describe the main goal and objective of the project"
@@ -147,7 +149,7 @@
   },
   "status": "draft",
   "createdAt": "2025-06-09T09:16:09.792Z",
-  "updatedAt": "2025-06-09T09:17:04.142Z",
+  "updatedAt": "2025-06-09T11:58:00.550Z",
   "clientAuthId": "1749460569792_4yffjxa7r",
   "middlemanAuthId": "1749460569792_4yffjxa7r",
   "views": 1,
