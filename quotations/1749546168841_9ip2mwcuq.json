@@ -26,7 +26,10 @@
       {
         "id": "default_1",
         "name": "UI/UX Design",
-        "description": "Complete design system with 2 revisions"
+        "description": "Complete design system with 2 revisions",
+        "points": [
+          "thank you"
+        ]
       },
       {
         "id": "default_2",
@@ -145,7 +148,7 @@
   },
   "status": "draft",
   "createdAt": "2025-06-10T09:02:48.841Z",
-  "updatedAt": "2025-06-10T09:11:43.468Z",
+  "updatedAt": "2025-06-10T09:48:39.460Z",
   "clientAuthId": "1749546168841_9ip2mwcuq",
   "middlemanAuthId": "1749546168841_9ip2mwcuq",
   "views": 1,
