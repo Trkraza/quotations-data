@@ -12,7 +12,9 @@
     "company": "Infosys",
     "contact": "Ramesh",
     "project": "Authetication",
-    "validUntil": "2025-06-25"
+    "validUntil": "2025-06-25",
+    "username": "infosys769@lancerstechnology.quote",
+    "middlemanUsername": "infosys556@lancerstechnology.quote"
   },
   "project": {
     "objective": "Describe the main goal, tagline, and hero content for the project",
@@ -130,7 +132,6 @@
   },
   "assumptions": {
     "assumptions": [
-      "Client will provide API keys and required assets",
       "Content and media assets provided by client",
       "Single language support (English)",
       "Timely client feedback and approvals"
@@ -144,7 +145,7 @@
   },
   "status": "draft",
   "createdAt": "2025-06-10T09:02:48.841Z",
-  "updatedAt": "2025-06-10T09:04:22.665Z",
+  "updatedAt": "2025-06-10T09:09:44.329Z",
   "clientAuthId": "1749546168841_9ip2mwcuq",
   "middlemanAuthId": "1749546168841_9ip2mwcuq",
   "views": 1,
