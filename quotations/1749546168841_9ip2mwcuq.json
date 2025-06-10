@@ -144,10 +144,12 @@
   },
   "status": "draft",
   "createdAt": "2025-06-10T09:02:48.841Z",
-  "updatedAt": "2025-06-10T09:02:48.841Z",
+  "updatedAt": "2025-06-10T09:04:22.665Z",
   "clientAuthId": "1749546168841_9ip2mwcuq",
   "middlemanAuthId": "1749546168841_9ip2mwcuq",
-  "views": 0,
-  "viewedDevices": [],
+  "views": 1,
+  "viewedDevices": [
+    "0ef1eddd7a6f967e"
+  ],
   "editHistory": []
 }
