@@ -214,10 +214,12 @@
   },
   "status": "draft",
   "createdAt": "2025-06-12T09:56:38.880Z",
-  "updatedAt": "2025-06-12T09:56:38.880Z",
+  "updatedAt": "2025-06-12T09:57:12.761Z",
   "clientAuthId": "1749722198880_zc29xpall",
   "middlemanAuthId": "1749722198880_zc29xpall",
-  "views": 0,
-  "viewedDevices": [],
+  "views": 1,
+  "viewedDevices": [
+    "0ef1eddd7a6f967e"
+  ],
   "editHistory": []
 }
