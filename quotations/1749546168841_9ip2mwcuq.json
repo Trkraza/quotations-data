@@ -68,6 +68,12 @@
         "name": "AWS",
         "description": "Amazon Web Services cloud platform",
         "category": "cloud"
+      },
+      {
+        "id": "tech_1749708994278_2xpus29ed",
+        "name": "Kotlin",
+        "description": "Android native development",
+        "category": "mobile"
       }
     ]
   },
@@ -148,7 +154,7 @@
   },
   "status": "draft",
   "createdAt": "2025-06-10T09:02:48.841Z",
-  "updatedAt": "2025-06-10T09:48:39.460Z",
+  "updatedAt": "2025-06-12T06:17:07.083Z",
   "clientAuthId": "1749546168841_9ip2mwcuq",
   "middlemanAuthId": "1749546168841_9ip2mwcuq",
   "views": 1,
