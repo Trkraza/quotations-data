@@ -1,0 +1,223 @@
+{
+  "id": "1749722198880_zc29xpall",
+  "quotationNumber": "QT-2025-0612-9xpall",
+  "date": "2025-06-12",
+  "company": {
+    "name": "Lancers Technology",
+    "website": "https://lancers.technology",
+    "email": "official@lancers.technology",
+    "phone": "+91 676856464"
+  },
+  "client": {
+    "company": "Forever Life",
+    "contact": "Rahul Trivedi",
+    "project": "Enrich Staking",
+    "validUntil": "2025-07-11"
+  },
+  "project": {
+    "objective": "Develop a comprehensive cross-platform logistics tracking ecosystem that revolutionizes supply chain visibility through real-time monitoring, intelligent analytics, and seamless customer communication.",
+    "tagline": "Enterprise Software Development Proposal",
+    "heroDescription": "Custom logistics tracking solution designed to transform your business operations and enhance customer experience through cutting-edge technology."
+  },
+  "deliverables": {
+    "items": [
+      {
+        "id": "deliverable_1749721798497_244kj10fj",
+        "name": "UI/UX Design",
+        "description": "Complete design system with 2 revisions",
+        "points": [
+          "Wireframing",
+          "Prototyping",
+          "Design System"
+        ]
+      },
+      {
+        "id": "deliverable_1749721839297_lnlsqjp63",
+        "name": "Mobile Application",
+        "description": "iOS + Android native apps",
+        "points": [
+          "Cross-platform",
+          "Real-time GPS",
+          "Push Notifications"
+        ]
+      },
+      {
+        "id": "deliverable_1749721877849_zdty2xudj",
+        "name": "Admin Dashboard",
+        "description": "Web-based control panel",
+        "points": [
+          "Analytics",
+          "User Management",
+          "Reporting"
+        ]
+      },
+      {
+        "id": "deliverable_1749721941929_quj0knyo4",
+        "name": "API Integrations",
+        "description": "Payment, mapping, notifications",
+        "points": [
+          "RESTful APIs",
+          "Webhooks",
+          "Payment Gateway"
+        ]
+      },
+      {
+        "id": "deliverable_1749721980561_3vzj3hp88",
+        "name": "QA Testing",
+        "description": "Comprehensive testing & deployment",
+        "points": [
+          "Automated Testing",
+          "Manual QA",
+          "Performance"
+        ]
+      },
+      {
+        "id": "deliverable_1749722025345_6akxb2ss0",
+        "name": "Documentation",
+        "description": "Technical & user documentation",
+        "points": [
+          "API Docs",
+          "User Guides",
+          "Deployment"
+        ]
+      }
+    ]
+  },
+  "tech": {
+    "items": [
+      {
+        "id": "default_tech_1",
+        "name": "React Native",
+        "description": "Cross-platform mobile development",
+        "category": "mobile"
+      },
+      {
+        "id": "default_tech_2",
+        "name": "Node.js",
+        "description": "JavaScript runtime for backend",
+        "category": "backend"
+      },
+      {
+        "id": "default_tech_3",
+        "name": "PostgreSQL",
+        "description": "Advanced relational database",
+        "category": "database"
+      },
+      {
+        "id": "default_tech_4",
+        "name": "AWS",
+        "description": "Amazon Web Services cloud platform",
+        "category": "cloud"
+      },
+      {
+        "id": "tech_1749722116009_tzdvjmjn8",
+        "name": "React.js",
+        "description": "Frontend JavaScript library",
+        "category": "frontend"
+      },
+      {
+        "id": "tech_1749722118937_hmmrypoys",
+        "name": "Next.js",
+        "description": "React framework for production",
+        "category": "frontend"
+      },
+      {
+        "id": "tech_1749722121881_zzqfvovq6",
+        "name": "Express.js",
+        "description": "Web framework for Node.js",
+        "category": "backend"
+      },
+      {
+        "id": "tech_1749722124849_qnd9dvduh",
+        "name": "Redis",
+        "description": "In-memory caching solution",
+        "category": "database"
+      },
+      {
+        "id": "tech_1749722125721_rh8qwlee0",
+        "name": "MySQL",
+        "description": "Popular relational database",
+        "category": "database"
+      },
+      {
+        "id": "tech_1749722127889_oxnzpg0pi",
+        "name": "Google Cloud",
+        "description": "Google's cloud computing platform",
+        "category": "cloud"
+      },
+      {
+        "id": "tech_1749722129337_vxb236i3n",
+        "name": "Swift",
+        "description": "iOS native development",
+        "category": "mobile"
+      },
+      {
+        "id": "tech_1749722130505_19vjxhpky",
+        "name": "Kotlin",
+        "description": "Android native development",
+        "category": "mobile"
+      },
+      {
+        "id": "tech_1749722135073_65lw2ylhe",
+        "name": "Cypress",
+        "description": "End-to-end testing framework",
+        "category": "testing"
+      }
+    ]
+  },
+  "pricing": {
+    "plans": [
+      {
+        "id": "default_enterprise",
+        "name": "Enterprise Application",
+        "price": 65000,
+        "features": [
+          "All features + scalability architecture",
+          "Advanced analytics dashboard",
+          "Automation & AI features",
+          "CI/CD pipeline setup",
+          "SLA-backed support (90 days)",
+          "Load testing & optimization",
+          "Priority support & maintenance"
+        ],
+        "isRecommended": true,
+        "description": "For large-scale, complex projects"
+      }
+    ],
+    "selectedPlanId": "default_enterprise",
+    "hourlyRate": 125
+  },
+  "terms": {
+    "advancePayment": 30,
+    "midpointPayment": 40,
+    "finalPayment": 30,
+    "freeSupportDays": 30,
+    "bugFixesIncluded": "yes",
+    "featureEnhancements": true,
+    "maintenancePlans": true,
+    "performanceOptimization": true,
+    "extendedSupportPlans": true
+  },
+  "assumptions": {
+    "assumptions": [
+      "Client will provide API keys and required assets",
+      "Content and media assets provided by client",
+      "Single language support (English)",
+      "Timely client feedback and approvals"
+    ],
+    "exclusions": [
+      "Content creation or copywriting",
+      "Third-party licensing costs",
+      "Server hosting and infrastructure costs",
+      "Server hosting costs"
+    ]
+  },
+  "status": "draft",
+  "createdAt": "2025-06-12T09:56:38.880Z",
+  "updatedAt": "2025-06-12T09:56:38.880Z",
+  "clientAuthId": "1749722198880_zc29xpall",
+  "middlemanAuthId": "1749722198880_zc29xpall",
+  "views": 0,
+  "viewedDevices": [],
+  "editHistory": []
+}
