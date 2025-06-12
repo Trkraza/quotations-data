@@ -12,7 +12,9 @@
     "company": "Forever Life",
     "contact": "Rahul Trivedi",
     "project": "Enrich Staking",
-    "validUntil": "2025-07-11"
+    "validUntil": "2025-07-11",
+    "username": "foreverlife541@lancerstechnology.quote",
+    "middlemanUsername": "foreverlife114@lancerstechnology.quote"
   },
   "project": {
     "objective": "Develop a comprehensive cross-platform logistics tracking ecosystem that revolutionizes supply chain visibility through real-time monitoring, intelligent analytics, and seamless customer communication.",
@@ -214,7 +216,7 @@
   },
   "status": "draft",
   "createdAt": "2025-06-12T09:56:38.880Z",
-  "updatedAt": "2025-06-12T09:57:12.761Z",
+  "updatedAt": "2025-06-12T12:09:20.958Z",
   "clientAuthId": "1749722198880_zc29xpall",
   "middlemanAuthId": "1749722198880_zc29xpall",
   "views": 1,
