@@ -14,7 +14,8 @@
     "project": "Enrich Staking",
     "validUntil": "2025-07-11",
     "username": "foreverlife541@lancerstechnology.quote",
-    "middlemanUsername": "foreverlife114@lancerstechnology.quote"
+    "middlemanUsername": "foreverlife114@lancerstechnology.quote",
+    "timeline": "2 weeks"
   },
   "project": {
     "objective": "Develop a comprehensive cross-platform logistics tracking ecosystem that revolutionizes supply chain visibility through real-time monitoring, intelligent analytics, and seamless customer communication.",
@@ -100,52 +101,10 @@
         "category": "backend"
       },
       {
-        "id": "default_tech_3",
-        "name": "PostgreSQL",
-        "description": "Advanced relational database",
-        "category": "database"
-      },
-      {
-        "id": "default_tech_4",
-        "name": "AWS",
-        "description": "Amazon Web Services cloud platform",
-        "category": "cloud"
-      },
-      {
-        "id": "tech_1749722116009_tzdvjmjn8",
-        "name": "React.js",
-        "description": "Frontend JavaScript library",
-        "category": "frontend"
-      },
-      {
-        "id": "tech_1749722118937_hmmrypoys",
-        "name": "Next.js",
-        "description": "React framework for production",
-        "category": "frontend"
-      },
-      {
         "id": "tech_1749722121881_zzqfvovq6",
         "name": "Express.js",
         "description": "Web framework for Node.js",
         "category": "backend"
-      },
-      {
-        "id": "tech_1749722124849_qnd9dvduh",
-        "name": "Redis",
-        "description": "In-memory caching solution",
-        "category": "database"
-      },
-      {
-        "id": "tech_1749722125721_rh8qwlee0",
-        "name": "MySQL",
-        "description": "Popular relational database",
-        "category": "database"
-      },
-      {
-        "id": "tech_1749722127889_oxnzpg0pi",
-        "name": "Google Cloud",
-        "description": "Google's cloud computing platform",
-        "category": "cloud"
       },
       {
         "id": "tech_1749722129337_vxb236i3n",
@@ -160,10 +119,20 @@
         "category": "mobile"
       },
       {
-        "id": "tech_1749722135073_65lw2ylhe",
-        "name": "Cypress",
-        "description": "End-to-end testing framework",
-        "category": "testing"
+        "id": "tech_1749798180398_e11ss0dzd",
+        "name": "solidity",
+        "category": "contract",
+        "purpose": "contract"
+      }
+    ],
+    "categoryDescriptions": [
+      {
+        "category": "mobile",
+        "description": "its apps devlopement"
+      },
+      {
+        "category": "backend",
+        "description": "its backend technologies"
       }
     ]
   },
@@ -216,7 +185,7 @@
   },
   "status": "draft",
   "createdAt": "2025-06-12T09:56:38.880Z",
-  "updatedAt": "2025-06-13T04:13:24.268Z",
+  "updatedAt": "2025-06-13T07:04:22.152Z",
   "clientAuthId": "1749722198880_zc29xpall",
   "middlemanAuthId": "1749722198880_zc29xpall",
   "views": 2,
