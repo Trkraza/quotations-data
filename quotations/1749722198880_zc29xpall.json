@@ -185,16 +185,17 @@
   },
   "status": "draft",
   "createdAt": "2025-06-12T09:56:38.880Z",
-  "updatedAt": "2025-06-14T11:32:53.014Z",
+  "updatedAt": "2025-06-14T17:53:42.976Z",
   "clientAuthId": "1749722198880_zc29xpall",
   "middlemanAuthId": "1749722198880_zc29xpall",
-  "views": 5,
+  "views": 6,
   "viewedDevices": [
     "0ef1eddd7a6f967e",
     "5caf23f85071b4f2",
     "13fa5928d0892a94",
     "2a7bdf8538c6a220",
-    "0c87512bed381f6c"
+    "0c87512bed381f6c",
+    "84a2f43a5e42aa05"
   ],
   "editHistory": []
 }
