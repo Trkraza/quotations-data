@@ -156,7 +156,7 @@
       }
     ],
     "selectedPlanId": "default_enterprise",
-    "hourlyRate": 0,
+    "hourlyRate": 200,
     "showHourlyRate": true
   },
   "terms": {
@@ -186,7 +186,7 @@
   },
   "status": "draft",
   "createdAt": "2025-06-12T09:56:38.880Z",
-  "updatedAt": "2025-06-16T05:45:22.653Z",
+  "updatedAt": "2025-06-16T05:45:54.953Z",
   "clientAuthId": "1749722198880_zc29xpall",
   "middlemanAuthId": "1749722198880_zc29xpall",
   "views": 6,
