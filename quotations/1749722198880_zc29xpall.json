@@ -156,7 +156,7 @@
       }
     ],
     "selectedPlanId": "default_enterprise",
-    "hourlyRate": 0
+    "hourlyRate": 50
   },
   "terms": {
     "advancePayment": 30,
@@ -185,7 +185,7 @@
   },
   "status": "draft",
   "createdAt": "2025-06-12T09:56:38.880Z",
-  "updatedAt": "2025-06-16T05:00:59.711Z",
+  "updatedAt": "2025-06-16T05:37:27.626Z",
   "clientAuthId": "1749722198880_zc29xpall",
   "middlemanAuthId": "1749722198880_zc29xpall",
   "views": 6,
