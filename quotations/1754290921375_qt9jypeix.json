@@ -13,10 +13,12 @@
     "contact": "Baseforever",
     "project": "Baseforever",
     "timeline": "2 - 3 weeks",
-    "validUntil": "2025-08-19"
+    "validUntil": "2025-08-19",
+    "username": "baseforever301@lancerstechnology.quote",
+    "middlemanUsername": "baseforever550@lancerstechnology.quote"
   },
   "project": {
-    "objective": "aseforever Staking is a secure, high-performance staking platform designed to maximize yield on your digital assets. Built on the Base network, it offers real-time rewards, low fees, and seamless integration for DeFi users seeking sustainable, passive income through decentralized staking.",
+    "objective": "Baseforever Staking is a secure, high-performance staking platform designed to maximize yield on your digital assets. Built on the Base network, it offers real-time rewards, low fees, and seamless integration for DeFi users seeking sustainable, passive income through decentralized staking.",
     "tagline": "Stake Smarter. Earn Forever.",
     "heroDescription": "Baseforever Staking is a fast, secure, and decentralized platform to earn passive income by staking your crypto on the Base network."
   },
@@ -160,7 +162,7 @@
   },
   "status": "draft",
   "createdAt": "2025-08-04T07:02:01.375Z",
-  "updatedAt": "2025-08-04T07:02:46.176Z",
+  "updatedAt": "2025-08-04T08:12:06.381Z",
   "clientAuthId": "1754290921375_qt9jypeix",
   "middlemanAuthId": "1754290921375_qt9jypeix",
   "views": 1,
