@@ -1,0 +1,12 @@
+{
+  "quotationId": "1754288931172_sshrlmxxc",
+  "username": "dummy766@lancerstechnology.quote",
+  "passwordHash": "$2b$12$JK.pwMeE4f089IDxHSil4O9qViS.yW8p679L2lAZMsdXwYwgSh1vG",
+  "role": "middleman",
+  "createdAt": "2025-08-04T06:28:51.172Z",
+  "expiryDate": "2025-08-19",
+  "permissions": {
+    "canEdit": true,
+    "canView": true
+  }
+}
