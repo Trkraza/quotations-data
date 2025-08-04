@@ -1,0 +1,12 @@
+{
+  "quotationId": "1754290248970_u88351tbu",
+  "username": "trkcompany104@lancerstechnology.quote",
+  "passwordHash": "$2b$12$SHqCEwz0KVAJ.XseT0feLeonJLylogFMLr1oQm88ZeC1kTZ5aKWka",
+  "role": "middleman",
+  "createdAt": "2025-08-04T06:50:48.970Z",
+  "expiryDate": "2025-08-19",
+  "permissions": {
+    "canEdit": true,
+    "canView": true
+  }
+}
