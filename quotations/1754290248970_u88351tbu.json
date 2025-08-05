@@ -150,10 +150,12 @@
   },
   "status": "draft",
   "createdAt": "2025-08-04T06:50:48.970Z",
-  "updatedAt": "2025-08-05T10:11:28.006Z",
+  "updatedAt": "2025-08-05T10:13:54.816Z",
   "clientAuthId": "1754290248970_u88351tbu",
   "middlemanAuthId": "1754290248970_u88351tbu",
-  "views": 0,
-  "viewedDevices": [],
+  "views": 1,
+  "viewedDevices": [
+    "4e4970737240fbe7"
+  ],
   "editHistory": []
 }
